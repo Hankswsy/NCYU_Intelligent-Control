@@ -1,5 +1,4 @@
 # 嘉義大學 113-2 智慧型控制 期末作業
-!!! note ""  
     github連結:https://github.com/Hankswsy/NCYU_Intelligent-Control
 ## Q1:請設計三輸入(delta x、delta y、delta phi)的停車系統模糊控制器，並於y=700時滿足x趨近0、phi趨近90度。  
 ### 程式碼
