@@ -2,3 +2,5 @@
 /autocar_venv
 /.vscode
 .python-version
+*.pdf
+*.html
