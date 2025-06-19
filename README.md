@@ -1,7 +1,7 @@
 # 嘉義大學 113-2 智慧型控制 期末作業
 ## Q1:請設計三輸入(delta x、delta y、delta phi)的停車系統模糊控制器，並於y=700時滿足x趨近0、phi趨近90度。  
 ### 程式碼
-```python 
+```python {.line-numbers}
     import math
     import numpy
     import skfuzzy.control
@@ -140,7 +140,7 @@
 ## Q2:請求出"期末作業2.pdf"中的delta x、delta y、delta phi。
 
 ### 程式碼
-```python
+```python {.line-numbers}
     import math
     import numpy as np
     import cv2
