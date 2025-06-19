@@ -1,0 +1,4 @@
+.DS_store
+/autocar_venv
+/.vscode
+.python-version
